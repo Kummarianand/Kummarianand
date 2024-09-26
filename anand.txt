@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Event Registration Form</title>
+<div id="event-registration">
+<h1>Registration</h1>
+<formid="event-registartion-form"method="POST"action="">
+<!--Form contents will go here-->
+<field set>
